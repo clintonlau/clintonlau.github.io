@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: MASc in Electrical & Computer Engineering
+    - title: MASc in Electrical & Computer Engineering (AI Specialization)
       institution: Queen's University, Kingston, Canada
       year: 2023
       # description:
@@ -19,7 +19,7 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: BASc in Electrical Engineering
+    - title: BASc in Electrical Engineering (DSP Specialization)
       institution: Queen's University, Kingston, Canada
       year: 2020
       # description:
@@ -32,9 +32,9 @@
     - name: Programming Language
       value: Python, Matlab, Java
     - name: Data Science
-      value: NumPy, Pandas, Scikit-Learn, SQL, Matplotlib, Seaborn, Jupyter
+      value: NumPy, Pandas, SQL, SciPy, Matplotlib, Seaborn, Jupyter
     - name: Machine Learning
-      value: PyTorch, HuggingFace, TensorFlow, Keras
+      value: PyTorch, Scikit-Learn, HuggingFace, TensorFlow, Keras
     - name: Other
       value: GitHub, Linux, Unix, Bash, Docker
     
