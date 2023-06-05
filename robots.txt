@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://clintonlau.github.io/sitemap.xml
