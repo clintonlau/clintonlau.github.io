@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my MASc thesis!
+Successfully defended MASc thesis!

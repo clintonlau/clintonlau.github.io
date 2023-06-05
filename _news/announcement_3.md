@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My journal paper was accepted at [Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry) :sparkles: 
+Journal paper accepted at [Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry) :sparkles: 

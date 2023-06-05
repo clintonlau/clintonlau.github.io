@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My [conference paper](https://ieeexplore.ieee.org/document/9723273) was accepted at [Asilomar Conference of Signal and Systems](https://www.asilomarssc.org) :sparkles: 
+[Conference paper](https://ieeexplore.ieee.org/document/9723273) accepted at [Asilomar Conference of Signal and Systems](https://www.asilomarssc.org) :sparkles: 
