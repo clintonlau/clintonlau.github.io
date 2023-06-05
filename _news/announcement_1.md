@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-05-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Enrolled into [MASc Program with a Field of Study in Artificial Intelligence](https://www.ece.queensu.ca/graduate/masc/field-of-study-in-ai.html) at Queen's University
