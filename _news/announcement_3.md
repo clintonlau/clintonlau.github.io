@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Journal paper accepted at [Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry) :sparkles: 
+[Journal paper](https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1160291/full) accepted at [Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry) :sparkles: 
