@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hey! I am Clinton :wave: I just graduated with a Master of Applied Science (MASc) degree in Electrical & Computer Engineering from [Ingenuity Labs](https://ingenuitylabs.queensu.ca), [Queen's University](https://www.queensu.ca). I had the honour to be co-supervised by Geoffrey Wai-Yip Chan and [Xiaodan Zhu](http://www.xiaodanzhu.com). My thesis focused on using NLP techniques to measure a person's depression severity through conversational speech. Before my MASc program, I received a BASc degree in Electrical Engineering with a specialization in digital signal processing.
 
-Now, with my strong foundation and practical experience in machine learning and data science, I am ready to take on complex problems in a production setting. If you want to get in touch with me, send me an email! And if you don't hear back from me right away, I am probably playing badminton, watching F1, or baking :smile:
+Now, with my strong foundation and practical experience in machine learning and data science, I am ready to take on complex problems in a production setting. If you want to get in touch with me, send me an email! And if you don't hear back from me right away, I am probably playing badminton, watching F1 highlights, or baking :smile:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
