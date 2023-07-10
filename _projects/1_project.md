@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: recipe recommender system
+description: End-to-end ML project from DIY recipe data collection to model serving
+img: assets/img/recipe-app-pipeline.png
+redirect: https://github.com/clintonlau/TOMT
 importance: 1
 category: work
 ---

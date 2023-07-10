@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Transfer Learning
+description: NLP research on automatic depression assessment using pretrained embeddings
+img: assets/img/frontiers-model-arch.jpg
+redirect: https://github.com/clintonlau/dual-encoder-model
+importance: 1
 category: work
 ---
 
