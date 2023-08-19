@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey! I am Clinton :wave: I just graduated with a Master of Applied Science (MASc) degree in electrical & computer engineering from [Ingenuity Labs](https://ingenuitylabs.queensu.ca), [Queen's University](https://www.queensu.ca). I had the honour to be co-supervised by Geoffrey Wai-Yip Chan and [Xiaodan Zhu](http://www.xiaodanzhu.com). My thesis focused on using deep learning and NLP techniques to estimate a person's depression severity from clinical interview recordings. This project has given me hands-on experience with modelling high-dimensional signals with Transformer-based models in PyTorch. I have first-authored two publications with some pretty figures and plots, I encourage you to go check them out in the Publications section!
+Hey! I am Clinton :wave: I just graduated with a Master of Applied Science (MASc) degree in electrical & computer engineering from [Ingenuity Labs](https://ingenuitylabs.queensu.ca), [Queen's University](https://www.queensu.ca). I had the honour to be co-supervised by Geoffrey Wai-Yip Chan and [Xiaodan Zhu](http://www.xiaodanzhu.com). 
+
+My thesis focused on using deep learning and NLP techniques to estimate a person's depression severity from clinical interview recordings. This project has given me hands-on experience with modelling high-dimensional signals with Transformer-based models in PyTorch. I have first-authored two publications with some pretty figures and plots, I encourage you to go check them out in the Publications section!
 
 Before my master's, I did a BASc degree in electrical engineering, specializing in digital signal processing. I had the opportunity to work at Ericsson for over a year as a developer implementing software scripts and test frameworks in Python.
 
