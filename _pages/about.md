@@ -19,11 +19,11 @@ social: false  # includes social icons at the bottom of the page
 
 Hey! I am Clinton :wave: I just graduated with a Master of Applied Science (MASc) degree in electrical & computer engineering from [Ingenuity Labs](https://ingenuitylabs.queensu.ca), [Queen's University](https://www.queensu.ca). I had the honour to be co-supervised by Geoffrey Wai-Yip Chan and [Xiaodan Zhu](http://www.xiaodanzhu.com). I had the honour to be one of the recipients for the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/).
 
-My thesis focused on applying deep learning and NLP techniques to estimate a person's depression severity from clinical interview recordings. This project gave me hands-on experience with data analysis and modelling of multi-modal signals (natural language, speech, vision) with Transformer-based models. I have lead-authored two publications with very intuitive plots and figures, I encourage you to go check them out in my Publications section!
+My research thesis focused on applying state-of-the-art deep learning and NLP techniques to assist clinicians triage patients for the most appropriate treatment. This project gave me hands-on experience in analyzing voice-to-text transcripts and modelling multi-modal signals (natural language, speech, vision) with recurrent neural networks and Transformer-based models. I have published two papers, which I encourage you to go check them out in my Publications section!
 
-Before my master's, I did a BASc degree in electrical engineering and specialized in digital signal processing. I had the opportunity to work at Ericsson for over a year as a developer implementing software scripts and test frameworks in Python.
+Before grad school, I did my bachelor's degree in electrical engineering with a focus on digital signal processing. I had the opportunity to interned at Ericsson for over a year as an algorithm developer.
 
-With my deep understanding and hands-on experience in machine learning and data science, I am ready to take on complex problems in a business environment. If you want to get in touch with me, just send me an email! And if you don't hear back from me right away, I am probably playing badminton, baking or, watching F1 highlights. :smile:
+If you want to get in touch with me, just send me an email! And if you don't hear back from me right away, I am probably playing badminton, baking ,or watching F1 highlights. :smile:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
