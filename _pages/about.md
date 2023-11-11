@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey! I am Clinton :wave: I just graduated with a Master of Applied Science (MASc) degree in electrical & computer engineering from [Ingenuity Labs](https://ingenuitylabs.queensu.ca), [Queen's University](https://www.queensu.ca). I had the honour to be co-supervised by Geoffrey Wai-Yip Chan and [Xiaodan Zhu](http://www.xiaodanzhu.com). I had the honour to be one of the recipients for the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/).
+Hey! I am Clinton :wave: I just graduated with a Master of Applied Science (MASc) degree in electrical & computer engineering from [Ingenuity Labs](https://ingenuitylabs.queensu.ca), [Queen's University](https://www.queensu.ca). I had the honour to be co-supervised by Geoffrey Wai-Yip Chan and [Xiaodan Zhu](http://www.xiaodanzhu.com). I had the honour to be one of the recipients for the [Vector Scholarship in Artifical Intelligence](https://vectorinstitute.ai/programs/scholarship/).
 
 My research thesis focused on applying state-of-the-art deep learning and NLP techniques to assist clinicians triage patients for the most appropriate treatment. This project gave me hands-on experience in analyzing voice-to-text transcripts and modelling multi-modal signals (natural language, speech, vision) with recurrent neural networks and Transformer-based models. I have published two papers, which I encourage you to go check them out in my Publications section!
 
