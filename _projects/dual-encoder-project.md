@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Transfer Learning
-description: NLP research on automatic depression assessment using pretrained embeddings
+title: Virtual Clinical Assistant
+description: NLP research on automatic depression assessment using pretrained vector embeddings
 img: assets/img/frontiers-model-arch.jpg
 redirect: https://github.com/clintonlau/dual-encoder-model
 importance: 1

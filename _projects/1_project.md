@@ -1,7 +1,7 @@
 ---
 layout: page
-title: recipe recommender system
-description: End-to-end ML project from DIY recipe data collection to model serving
+title: TOMT (Tip of My Tongue)
+description: E2E ML project to suggest recipes based on what you feel like having
 img: assets/img/recipe-app-pipeline.png
 redirect: https://github.com/clintonlau/TOMT
 importance: 1
